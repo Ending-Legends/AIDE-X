@@ -5,12 +5,12 @@ AIDE-X is a next-generation Generative AI system that transforms natural languag
 It bridges the gap between AI understanding and real-world task execution using a multi-agent architecture and confidence-based decision engine.
 
 Key Features
-🔹 Natural Language Understanding (NLP + LLM)
-🔹 Dynamic Workflow Generation (No rule-based logic)
-🔹 Multi-Agent AI System
-🔹 Automation Confidence Score (Safe execution)
-🔹 Real-time Task Processing
-🔹 Scalable & Modular Architecture
+ 1. Natural Language Understanding (NLP + LLM)
+ 2. Dynamic Workflow Generation (No rule-based logic)
+ 3. Multi-Agent AI System
+ 4. Automation Confidence Score (Safe execution)
+ 5. Real-time Task Processing
+ 6. Scalable & Modular Architecture
 
 How It Works :
 User Input (Text / Email)
@@ -26,30 +26,29 @@ Workflow Execution
 Response / Action
 
 Tech Stack
-🔹 Backend
-      Python
-      FastAPI
-      SQLAlchemy
-🔹 Frontend
+1. Backend:
+      I. Python
+     II. FastAPI
+    III. SQLAlchemy
+2. Frontend:
       React.js
-🔹 AI
-      LLM (OpenAI-compatible API)
-      NLP & NER
-🔹 Database
+3. AI:
+      I. LLM (OpenAI-compatible API)
+     II. NLP & NER
+4. Database:
       SQLite / PostgreSQL
 
 Installation & Setup
-1️⃣ Clone the Repository
+1️. Clone the Repository
     git clone https://github.com/your-username/aide-x.git
     cd aide-x
-2️⃣ Backend Setup
+2️. Backend Setup
     cd backend
     pip install -r requirements.txt
 
 Run server:
-
-python -m uvicorn main:app --reload
-3️⃣ Frontend Setup
+    python -m uvicorn main:app --reload
+3️. Frontend Setup:
     cd frontend
     npm install
     npm start
