@@ -27,11 +27,12 @@ Tech Stack:
 7. Database: SQLite / PostgreSQL
 
 Installation & Setup:
-   1. git clone https://github.com/your-username/aide-x.git
-   2. cd aide-x
+1. git clone https://github.com/your-username/aide-x.git
+2. cd aide-x
+
 Backend Setup:
-   1. cd backend
-   2. pip install -r requirements.txt
+1. cd backend
+2. pip install -r requirements.txt
 
 Run server: python -m uvicorn main:app --reload
 
