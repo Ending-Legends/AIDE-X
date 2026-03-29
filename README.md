@@ -23,7 +23,7 @@ Tech Stack:
 3. Frontend: React.js
 5. AI:
    1. LLM (OpenAI-compatible API)
-			2. NLP & NER
+   2. NLP & NER
 7. Database: SQLite / PostgreSQL
 
 Installation & Setup:
