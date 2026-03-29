@@ -25,18 +25,18 @@ Workflow Execution
         ↓
 Response / Action
 
-Tech Stack
+Tech Stack:
 1. Backend:
-      I. Python
-     II. FastAPI
-    III. SQLAlchemy
-2. Frontend:
-      React.js
-3. AI:
-      I. LLM (OpenAI-compatible API)
-     II. NLP & NER
-4. Database:
-      SQLite / PostgreSQL
+   I. Python
+   II. FastAPI
+   III. SQLAlchemy
+3. Frontend:
+   React.js
+5. AI:
+   I. LLM (OpenAI-compatible API)
+   II. NLP & NER
+7. Database:
+   SQLite / PostgreSQL
 
 Installation & Setup
 1️. Clone the Repository
